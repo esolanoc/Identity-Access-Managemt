@@ -10,4 +10,5 @@ La Gestión de Identidades y Accesos (IAM) se fundamenta en **cuatro pilares ese
 Cada pilar cumple una función distinta pero interconectada, garantizando seguridad y trazabilidad en los sistemas.
 
 
-<img width="1279" height="328" alt="image" src="https://github.com/user-attachments/assets/0a8e832b-f609-452a-91a7-37282d6082a5" />
+<img width="1536" height="1024" alt="Copilot_20260623_170436" src="https://github.com/user-attachments/assets/f950fe59-aa3d-4836-b3bf-0103e852673b" />
+
