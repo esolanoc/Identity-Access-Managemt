@@ -1,9 +1,9 @@
-## 🔐 IAM
+# 🔐 IAM
 Es un marco integral de procesos empresariales, politicas y tecnologias, disenado especificamente para la gestion de indentidades y regular quien accede a que recursos en el sistema de TI.
 
-## 🛡️ Microsoft: "es el sistema que asegura que las personas, máquinas y componentes de software accedan a los recursos correctos en el momento correcto"
+# 🛡️ Microsoft: "es el sistema que asegura que las personas, máquinas y componentes de software accedan a los recursos correctos en el momento correcto"
 
-### Como Opera este marco?:
+## Como Opera este marco?:
 Hay 3 preguntas Fundamentales que determinan la seguridad de cualquier recurso:
 
 ¿Quién eres? ( autenticación)
