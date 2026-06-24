@@ -1,0 +1,14 @@
+## 📖 Verificación de Identidad Fuerte
+Autentica el acceso a todas las aplicaciones, servicios y recursos, comenzando por los más confidenciales. Implementa MFA en todo punto de acceso y evalúa riesgo contextual.
+
+## 🌐 Administración de Dispositivos y Redes
+Asegura que todos los endpoints cumplan requisitos de seguridad (gestión de parches, cifrado). Cifra todas las comunicaciones de red y aplica microsegmentación para aislar recursos.
+
+## 💻 Visibilidad de Aplicaciones
+Identifica 'Shadow IT' — aplicaciones no autorizadas en uso. Establece inventario completo y asigna permisos basados en identidad, no en ubicación de red.
+
+## 📜 Permisos de Datos
+Asigna niveles de clasificación a datos (público, interno, confidencial, restringido). Cifra datos confidenciales en reposo y en tránsito. Limita acceso según necesidad de conocimiento.
+
+##🛡️ Monitorización Continua
+Evalúa, actualiza y configura cada componente de infraestructura para limitar acceso innecesario. Implementa análisis de comportamiento y respuesta automatizada a anomalías.
